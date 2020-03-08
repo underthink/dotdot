@@ -1,5 +1,7 @@
 # Enable `ls` colours
 export CLICOLOR=1
+# Use 'micro' as editor
+export EDITOR=micro
 
 # autosuggestion
 zinit light zsh-users/zsh-autosuggestions
