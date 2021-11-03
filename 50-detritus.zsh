@@ -7,7 +7,7 @@ export EDITOR=micro
 zinit light zsh-users/zsh-autosuggestions
 
 # syntax highlighting
-zinit light zdharma/fast-syntax-highlighting
+zinit light zdharma-continuum/fast-syntax-highlighting
 
 # selection menus for completions
 zstyle ':completion:*' menu select
